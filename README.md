@@ -23,8 +23,11 @@ The project follows a full analytics lifecycle:
    - Business decision support thinking
 
 **Business Context**
+
 **Client (Simulated):** Atliq Hospitality
+
 **Domain:** Hospitality
+
 **Function:** Revenue Management
 
 Atliq Hospitality owns multiple five-star hotels across major Indian cities. Due to increasing competition and sub-optimal pricing and capacity decisions, the company has experienced declining market share and revenue in the luxury and business hotel segment.
@@ -43,6 +46,7 @@ The leadership team decided to adopt Business Intelligence & Data-Driven Revenue
 
 **📂 Dataset**
 _Source: Codebasics (Hospitality Revenue Case Study)_
+
 **Data Files Used (CSV / Excel):**
    - dim_hotels – Property master data (hotel, city, category)
    - dim_rooms – Room types and room classes
@@ -50,6 +54,7 @@ _Source: Codebasics (Hospitality Revenue Case Study)_
    - fact_aggregated_bookings – Aggregated booking metrics
    - dim_date – Date, week, month, and weekday/weekend mapping
    - metrics_list – Definition of hospitality KPIs
+   - 
 **Data Coverage Includes:**
    - Property-level performance
    - Room classes and room categories
@@ -146,8 +151,8 @@ This dashboard is designed to help Revenue Managers answer questions such as:
 - Underperforming properties can be uplifted through targeted pricing and channel mix optimization
 
 📌 Outcome
-**This project delivers a production-ready hospitality revenue dashboard that enables:
-**
+**This project delivers a production-ready hospitality revenue dashboard that enables:**
+
 - Faster pricing decisions
 - Clear performance monitoring
 - Property-level accountability
