@@ -54,7 +54,7 @@ _Source: Codebasics (Hospitality Revenue Case Study)_
    - fact_aggregated_bookings – Aggregated booking metrics
    - dim_date – Date, week, month, and weekday/weekend mapping
    - metrics_list – Definition of hospitality KPIs
-   - 
+     
 **Data Coverage Includes:**
    - Property-level performance
    - Room classes and room categories
